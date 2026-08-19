@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Rajiv",
+    "email": "rajiv@devtrack.com",
+    "team": "frontend"
+  },
+  {
+    "id": 2,
+    "name": "Malik",
+    "email": "malik@devtrack.com",
+    "team": "backend"
+  },
+  {
+    "id": 3,
+    "name": "Reena",
+    "email": "reena@devtrack.com",
+    "team": "backend"
+  },
+  {
+    "id": 4,
+    "name": "John",
+    "email": "john@devtrack.com",
+    "team": "devops"
+  }
+]
