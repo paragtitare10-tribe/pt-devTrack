@@ -3,6 +3,35 @@
 This project is designed using Django to track the engineering issues.
 Basic setup consists of two entities namely Reporter and Issue, where a reporter can be report any issues that can be characterised based on priority, status etc.
 
+## How to run
+
+---
+# Open terminal
+
+1. Create a virtual environment
+python3 -m venv .venv
+
+2. Activate the environment
+source .venv/bin/activate
+
+
+3. Install django and djangorestframework
+pip install django
+
+pip install djangorestframework
+
+4. Initiate server
+python manage.py runserver
+
+# Once server is activated, use below endpoints to interact.
+
+5. Once done - press ctrl + c, to shut down the server
+
+6. Deactivate the environment
+enter "deactivate" in terminal and press enter
+
+---
+
 ## Endpoints USAGE
 
 # ************ REPORTER *********** 
